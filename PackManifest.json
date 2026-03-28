@@ -1,16 +1,26 @@
 {
-  "manifestVersion": 1,
-  "remoteManifestURL": "https://raw.githubusercontent.com/my4paws/VanlifeAssistant-DataPacks/main/PackManifest.json",
-  "packs": [
+  "manifestVersion" : 1,
+  "packs" : [
     {
-      "productID": "Vincent.VanlifeAssistant.pack.france",
-      "displayName": "France — Premium Spot Pack",
-      "downloadURL": "https://raw.githubusercontent.com/my4paws/VanlifeAssistant-DataPacks/main/france_pack_v1.enc",
-      "fileHash": "baaa904e32c6597677ea7c6779940a6d9d62b1cc9ec150fc4a6b3371176e3879",
-      "keyVersion": 1,
-      "packVersion": 1,
-      "spotCount": 70441,
-      "signature": "dAhK7w28Cmu2vrPAS2MnnL6oMfub5akmA4eg1Zc2zPvu3N2JI+3xCnEvj+5noAxlPv621zK8RuY1adzFPW9PBQ=="
+      "displayName" : "France — Premium Spot Pack",
+      "downloadURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/france_pack_v1.enc",
+      "fileHash" : "baaa904e32c6597677ea7c6779940a6d9d62b1cc9ec150fc4a6b3371176e3879",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.france",
+      "signature" : "dAhK7w28Cmu2vrPAS2MnnL6oMfub5akmA4eg1Zc2zPvu3N2JI+3xCnEvj+5noAxlPv621zK8RuY1adzFPW9PBQ==",
+      "spotCount" : 70441
+    },
+    {
+      "displayName" : "Luxembourg — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-lu-v1\/lu_pack_v1.enc",
+      "fileHash" : "69a10c7c72e41f66d5d5c98ef0a90abf16140394576933f4f7b6cad7e1f7b91a",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.lu",
+      "signature" : "tXgBaZa2ANH0kznN\/6VonsszAaNjHCD3JJ6qDuBegvhEPyRuUU03Dmp7\/mxCJjjGgJD5FCS3RHAl\/96w7rkSCQ==",
+      "spotCount" : 0
     }
-  ]
+  ],
+  "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
 }
