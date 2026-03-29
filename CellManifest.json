@@ -1,42 +1,4 @@
 {
-  "manifestVersion" : 1,
-  "packs" : [
-    {
-      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-uk-v1\/OpenCelliD_UK.sqlite.gz",
-      "fileHash" : "f284f7bbe5d4c6b032d0109317e435d2a73b1f39700986e89692ce56d0201c1a",
-      "fileSizeBytes" : 8937472,
-      "name" : "United Kingdom",
-      "packVersion" : 1,
-      "region" : "uk",
-      "towerCount" : 0
-    },
-    {
-      "builtAt" : "2026-03-29T05:58:48Z",
-      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-lu-v1\/OpenCelliD_LU.sqlite.gz",
-      "fileHash" : "a079b515f50068c5487546ad295ef571b8908118775dee4422abacb4cfeb0b90",
-      "fileSizeBytes" : 622592,
-      "name" : "Luxembourg",
-      "packVersion" : 1,
-      "region" : "lu",
-      "towerCount" : 0
-    },
-    {
-      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-fr-v1\/OpenCelliD_FR.sqlite.gz",
-      "fileHash" : "381a137a2feb0173f16e2ae5b64aa2f6e4eba1d10acd40ebc862a3ff9e36b9e2",
-      "fileSizeBytes" : 29511680,
-      "name" : "France",
-      "packVersion" : 1,
-      "region" : "fr",
-      "towerCount" : 319156
-    },
-    {
-      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-es-v1\/OpenCelliD_ES.sqlite.gz",
-      "fileHash" : "d651b0ade64a68a4ec1d69562acda3754a0704eda92b933f09f3e046b83fd1dc",
-      "fileSizeBytes" : 6578176,
-      "name" : "Spain",
-      "packVersion" : 1,
-      "region" : "es",
-      "towerCount" : 70974
-    }
-  ]
+  "manifestVersion": 1,
+  "packs": []
 }
