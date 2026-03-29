@@ -1,0 +1,14 @@
+{
+  "manifestVersion" : 1,
+  "packs" : [
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-uk-v1\/OpenCelliD_UK.sqlite.gz",
+      "fileHash" : "f284f7bbe5d4c6b032d0109317e435d2a73b1f39700986e89692ce56d0201c1a",
+      "fileSizeBytes" : 8937472,
+      "name" : "United Kingdom",
+      "packVersion" : 1,
+      "region" : "uk",
+      "towerCount" : 0
+    }
+  ]
+}
