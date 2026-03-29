@@ -28,6 +28,15 @@
       "packVersion" : 1,
       "region" : "fr",
       "towerCount" : 319156
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-es-v1\/OpenCelliD_ES.sqlite.gz",
+      "fileHash" : "d651b0ade64a68a4ec1d69562acda3754a0704eda92b933f09f3e046b83fd1dc",
+      "fileSizeBytes" : 6578176,
+      "name" : "Spain",
+      "packVersion" : 1,
+      "region" : "es",
+      "towerCount" : 70974
     }
   ]
 }
