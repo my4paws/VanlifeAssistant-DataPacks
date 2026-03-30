@@ -1,16 +1,7 @@
 {
   "manifestVersion" : 1,
   "packs" : [
-    {
-      "displayName" : "Luxembourg — Premium Spot Pack",
-      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-lu-v1\/lu_pack_v1.enc",
-      "fileHash" : "f9d111ca1d5c713f34ccb03fc8497567bc0a111b519ce944bd7ef552394c1a93",
-      "keyVersion" : 1,
-      "packVersion" : 1,
-      "productID" : "Vincent.VanlifeAssistant.pack.lu",
-      "signature" : "59ui2ojJ1DMsrkfloaWW9EBYd3\/3rD4hA546yneX8QUNOht\/smjxXmS5Ik+7Cd32qJN2M6XiSn7MF0WcuNd1Ag==",
-      "spotCount" : 447
-    }
+
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
 }
