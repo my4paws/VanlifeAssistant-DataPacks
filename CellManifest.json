@@ -1,6 +1,23 @@
 {
   "manifestVersion" : 1,
   "packs" : [
-
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-lu-v1\/OpenCelliD_LU.sqlite.gz",
+      "fileHash" : "dd28863c82c7928ae720f48cdc42dfa0d79ba2aa8bfb4e15b677e80b286af4e9",
+      "fileSizeBytes" : 626688,
+      "name" : "Luxembourg",
+      "packVersion" : 1,
+      "region" : "lu",
+      "towerCount" : 6683
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-ad-v1\/OpenCelliD_AD.sqlite.gz",
+      "fileHash" : "cbe7839669429ba4480388457f6a76a072907627a08da4f052e35cbb7dd5d7c8",
+      "fileSizeBytes" : 28672,
+      "name" : "Andorra",
+      "packVersion" : 1,
+      "region" : "ad",
+      "towerCount" : 94
+    }
   ]
 }
