@@ -18,6 +18,15 @@
       "packVersion" : 1,
       "region" : "ad",
       "towerCount" : 94
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-uk-v1\/OpenCelliD_UK.sqlite.gz",
+      "fileHash" : "b0d824d8c56e53302e973cfd9b0376ec618d3d652f2c95d2b1f43efb732864a8",
+      "fileSizeBytes" : 8966144,
+      "name" : "United Kingdom",
+      "packVersion" : 1,
+      "region" : "uk",
+      "towerCount" : 96257
     }
   ]
 }
