@@ -20,6 +20,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.ad",
       "signature" : "EmyQ93s2z92G+bZTWjqMtpTjBPyHLcHCuQNOyOZHL2\/8J\/J2WNFKG83xJ3BGeogh1cF+oGB+nof+rUZrmtKADQ==",
       "spotCount" : 139
+    },
+    {
+      "displayName" : "United Kingdom — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-uk-v1\/uk_pack_v1.enc",
+      "fileHash" : "7cf750dee3431c89f8af79395d5d4a1f902496a78e987da393697ca2b03e318d",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.uk",
+      "signature" : "R80c0eoZU+C0jzj2f51i3jR\/D1N9euPQt42kmLwwa9VtqNlPsbt1MtREkbiDqNEJ0ehbxv8fDNUrUSZa7VRODQ==",
+      "spotCount" : 596
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
