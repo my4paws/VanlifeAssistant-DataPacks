@@ -10,6 +10,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.uk",
       "signature" : "taNK3uHLoEafyZRcHCTYPIdxnQBlkrJK3MubrUYEmzeyQR7AojgAiilQfcoa7JMdvdk5XWoQG3jy1PvzaCV2Bw==",
       "spotCount" : 21418
+    },
+    {
+      "displayName" : "Ireland — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-ie-v1\/ie_pack_v1.enc",
+      "fileHash" : "297f86595542767d57a16169f7ff1898888be2ee5af748669d41ca7f0e840e66",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.ie",
+      "signature" : "fvJiGyOoN28rEyGP6XRWkVYnddSOiFu6CvIHp9fPP4bD7o3XXqc93\/rbNWGwCEP4jDgxLyhk4RaRv6PUqocYCA==",
+      "spotCount" : 3213
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
