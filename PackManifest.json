@@ -1,6 +1,16 @@
 {
   "manifestVersion" : 1,
   "packs" : [
-
-  ]
+    {
+      "displayName" : "United Kingdom — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-uk-v1\/uk_pack_v1.enc",
+      "fileHash" : "68cfbfe4721c14cfa31a48c03b8c63fee0db8a55036fca9eaa8a03ac10df60ed",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.uk",
+      "signature" : "taNK3uHLoEafyZRcHCTYPIdxnQBlkrJK3MubrUYEmzeyQR7AojgAiilQfcoa7JMdvdk5XWoQG3jy1PvzaCV2Bw==",
+      "spotCount" : 21418
+    }
+  ],
+  "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
 }
