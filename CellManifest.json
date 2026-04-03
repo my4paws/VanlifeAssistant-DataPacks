@@ -27,6 +27,15 @@
       "packVersion" : 1,
       "region" : "uk",
       "towerCount" : 96257
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-ie-v1\/OpenCelliD_IE.sqlite.gz",
+      "fileHash" : "353432f934a611ebe8de9d814d58d9f1cbf431e662c535e9453c72a746186673",
+      "fileSizeBytes" : 589824,
+      "name" : "Ireland",
+      "packVersion" : 1,
+      "region" : "ie",
+      "towerCount" : 6228
     }
   ]
 }
