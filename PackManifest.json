@@ -50,6 +50,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.ad",
       "signature" : "+doGDuAP2smXdqbmkNZxg94j9YTSD4md28Gl5dsUFWYyU+Wz7ZiZaCUnD91u45SFexlNYaAGhqRrK\/xySXbMDg==",
       "spotCount" : 139
+    },
+    {
+      "displayName" : "Monaco — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-mc-v1\/mc_pack_v1.enc",
+      "fileHash" : "f6a2b31a10cf3bbbaf15a3085288a34f926167e2187ba607c4d43282ff94bd46",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.mc",
+      "signature" : "7ZnlntCZ6FnHAZq4C83g24wfCIeFIrnIhyorhNi0Xj\/mj\/JgrIE5oKgXpMKboTcM+EAqmJElm+PhNCU+Gj8iDQ==",
+      "spotCount" : 10
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
