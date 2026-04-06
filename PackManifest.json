@@ -40,6 +40,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.lu",
       "signature" : "Zo5r2zkrYE6xoh9U+j1Ba1iQtc\/ycbzKGPzjUIvEixVLghqpFRCooyaJoMTJSDP2GbqC4pM1C4xGe7hngvTUAg==",
       "spotCount" : 451
+    },
+    {
+      "displayName" : "Andorra — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-ad-v1\/ad_pack_v1.enc",
+      "fileHash" : "ebd7b713998f4d1ec066a11cec90acacf57e05c9473fd01494b4913596dcf261",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.ad",
+      "signature" : "+doGDuAP2smXdqbmkNZxg94j9YTSD4md28Gl5dsUFWYyU+Wz7ZiZaCUnD91u45SFexlNYaAGhqRrK\/xySXbMDg==",
+      "spotCount" : 139
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
