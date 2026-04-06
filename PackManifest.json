@@ -60,6 +60,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.mc",
       "signature" : "7ZnlntCZ6FnHAZq4C83g24wfCIeFIrnIhyorhNi0Xj\/mj\/JgrIE5oKgXpMKboTcM+EAqmJElm+PhNCU+Gj8iDQ==",
       "spotCount" : 10
+    },
+    {
+      "displayName" : "Liechtenstein — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-li-v1\/li_pack_v1.enc",
+      "fileHash" : "9a68ef6de7252583be4e5baa72b1f92e9372f56ff6d7572dea72c86e76e97655",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.li",
+      "signature" : "CmsjHmMJcBg1yEk07Ww54NHuzA6jozzoHCx4OooCD3x78B5mDV6nrt\/rxrWnBU\/yNcbOsoEGThycoPi3zNuJBA==",
+      "spotCount" : 46
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
