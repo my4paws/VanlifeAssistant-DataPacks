@@ -45,6 +45,15 @@
       "packVersion" : 1,
       "region" : "fr",
       "towerCount" : 318872
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-pt-v1\/OpenCelliD_PT.sqlite.gz",
+      "fileHash" : "1bbbf37da5eb9fbd691a1c7a8b9be4c7d91f006b39b17c12d0b735a252365fba",
+      "fileSizeBytes" : 2191360,
+      "name" : "Portugal",
+      "packVersion" : 1,
+      "region" : "pt",
+      "towerCount" : 23916
     }
   ]
 }
