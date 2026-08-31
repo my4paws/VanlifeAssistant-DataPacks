@@ -100,6 +100,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.be",
       "signature" : "PEK1Q8lHs64k1oETu\/KMEDMPM77LkFjzfjcHklCYRzb2R\/vvOzZOPgT\/9I4Z\/fkTDeS14I8QKHMe7M2OttH3CQ==",
       "spotCount" : 3821
+    },
+    {
+      "displayName" : "Germany — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-de-v1\/de_pack_v1.enc",
+      "fileHash" : "01a196dc0549b220efed3067815a1e2ec591de663a9eab6b5985ff2ad77dfb31",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.de",
+      "signature" : "wcb8YAVcHcp3rmhr70TabhPWOJ1c4XQhb9Ob0k649x6cUh7M6qqxBTT8H8qonV+4ALH56fPdfvDAow07qokfDA==",
+      "spotCount" : 31044
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
