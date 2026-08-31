@@ -63,6 +63,15 @@
       "packVersion" : 1,
       "region" : "es",
       "towerCount" : 71185
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-be-v1\/OpenCelliD_BE.sqlite.gz",
+      "fileHash" : "7c531c58c305d4cffdcad586561d66470c78f0426aaf8fef4fbf13fbdf5ccc95",
+      "fileSizeBytes" : 4222976,
+      "name" : "Belgium",
+      "packVersion" : 1,
+      "region" : "be",
+      "towerCount" : 46257
     }
   ]
 }
