@@ -81,6 +81,15 @@
       "packVersion" : 1,
       "region" : "de",
       "towerCount" : 210703
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-at-v1\/OpenCelliD_AT.sqlite.gz",
+      "fileHash" : "58893afc17c888f00fce5514faeb7637c857eb6b7d1a2f8a83e010aec73a1b6d",
+      "fileSizeBytes" : 4489216,
+      "name" : "Austria",
+      "packVersion" : 1,
+      "region" : "at",
+      "towerCount" : 49186
     }
   ]
 }
