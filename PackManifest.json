@@ -120,6 +120,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.at",
       "signature" : "Ju094SP3B4KuSdFP9t3zuNQGIYjHbyXY5gJZqecRZS\/3aVx7AfDQ2ouC9jhr\/A0aEJh8hEz3vKI+rvtb+oaUAg==",
       "spotCount" : 4772
+    },
+    {
+      "displayName" : "Switzerland — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-ch-v1\/ch_pack_v1.enc",
+      "fileHash" : "4d7f54d0515d04db7088e03e3480881aa0050e58878934800889062ffca59a68",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.ch",
+      "signature" : "4K8DZx+HpLlPv1NCYXCfTep76Wll8ntlXY5NO1HtYYLUGP0ztB2P5JZxubGK2uUkLhCm0L\/sJiwz2exCdhBjCQ==",
+      "spotCount" : 6158
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
