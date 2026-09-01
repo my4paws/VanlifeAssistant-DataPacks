@@ -110,6 +110,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.de",
       "signature" : "wcb8YAVcHcp3rmhr70TabhPWOJ1c4XQhb9Ob0k649x6cUh7M6qqxBTT8H8qonV+4ALH56fPdfvDAow07qokfDA==",
       "spotCount" : 31044
+    },
+    {
+      "displayName" : "Austria — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-at-v1\/at_pack_v1.enc",
+      "fileHash" : "beb8a116d3a740f6a2ccfb9013787064faa45e4d31d6083baf2feac271e10f14",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.at",
+      "signature" : "Ju094SP3B4KuSdFP9t3zuNQGIYjHbyXY5gJZqecRZS\/3aVx7AfDQ2ouC9jhr\/A0aEJh8hEz3vKI+rvtb+oaUAg==",
+      "spotCount" : 4772
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
