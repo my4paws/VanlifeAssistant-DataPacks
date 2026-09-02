@@ -90,6 +90,15 @@
       "packVersion" : 1,
       "region" : "at",
       "towerCount" : 49186
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-ch-v1\/OpenCelliD_CH.sqlite.gz",
+      "fileHash" : "86617c8eb74323fd3f964b1237d93c2777b41d88985de27586becf3933f48372",
+      "fileSizeBytes" : 3211264,
+      "name" : "Switzerland",
+      "packVersion" : 1,
+      "region" : "ch",
+      "towerCount" : 35231
     }
   ]
 }
