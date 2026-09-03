@@ -140,6 +140,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.dk",
       "signature" : "kPL7m65b0PSTB9oBzkxiHhaNMInnAph2fiNKaIqoDYqbwuNpMPW+BLjrotAwCpqWMenmJ\/Lq3SWTuGzCZt\/nCg==",
       "spotCount" : 4461
+    },
+    {
+      "displayName" : "Netherlands — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-nl-v1\/nl_pack_v1.enc",
+      "fileHash" : "f68dcf3c9db96236b0794b759b9e64eddbcbf6b92179f2a772e5ce8d244d7cb9",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.nl",
+      "signature" : "SVzfcbJ8WvZMC3f+1D0uTwWu7I4\/SxEwVuAHMNNE1WNyOV8mjtI1tT\/zPq71lIc895DSRnJX8jfKb2ZgY+SaCg==",
+      "spotCount" : 5292
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
