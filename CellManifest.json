@@ -99,6 +99,15 @@
       "packVersion" : 1,
       "region" : "ch",
       "towerCount" : 35231
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-dk-v1\/OpenCelliD_DK.sqlite.gz",
+      "fileHash" : "fd4bf6caeba8f5ad17096415b773fdbace28a599b936943ae0b9be6d520658ac",
+      "fileSizeBytes" : 1699840,
+      "name" : "Denmark",
+      "packVersion" : 1,
+      "region" : "dk",
+      "towerCount" : 18386
     }
   ]
 }
