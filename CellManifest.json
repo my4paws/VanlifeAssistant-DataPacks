@@ -108,6 +108,15 @@
       "packVersion" : 1,
       "region" : "dk",
       "towerCount" : 18386
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-nl-v1\/OpenCelliD_NL.sqlite.gz",
+      "fileHash" : "91c1c163c8e89fff8987ab6a138829672cc528594f1fb2c4a50d2c3dbf0308af",
+      "fileSizeBytes" : 3096576,
+      "name" : "Netherlands",
+      "packVersion" : 1,
+      "region" : "nl",
+      "towerCount" : 33575
     }
   ]
 }
