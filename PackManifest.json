@@ -160,6 +160,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.it",
       "signature" : "fwXhxU6J90vxzGoQ2Z4RLLsiHNgLj8J3dR3L+7HZ2QiHcCVVL+H7pMP\/xXkuwpSmSVxcTSUqYrwOFDlYdgJlBw==",
       "spotCount" : 36209
+    },
+    {
+      "displayName" : "Sweden — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-se-v1\/se_pack_v1.enc",
+      "fileHash" : "547d8f210ae578ffb584d91a4cd53ef1d47765b83c4507f6af5f12854d40272b",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.se",
+      "signature" : "LXkj6PlXziONSnYkXq7k32r6QFIeAb5sye1qMge68aFfJhnUWjeHEDtV7RegaCK7QS0gRRNpE+5LTwOChkPXCw==",
+      "spotCount" : 11487
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
