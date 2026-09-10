@@ -117,6 +117,15 @@
       "packVersion" : 1,
       "region" : "nl",
       "towerCount" : 33575
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-se-v1\/OpenCelliD_SE.sqlite.gz",
+      "fileHash" : "2bb78bf72c831a97409438ef52650e42c20819778aedf6e33dc24716086eee82",
+      "fileSizeBytes" : 2695168,
+      "name" : "Sweden",
+      "packVersion" : 1,
+      "region" : "se",
+      "towerCount" : 29217
     }
   ]
 }
