@@ -180,6 +180,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.no",
       "signature" : "h8td\/GDjYCX5U1sEEOVIcE5uKG+JrBSuB9hD5NJHurNSGVt6\/vaT0Qe2rgtMgrFsRoWcC4WKT9k+AvtcG68vAw==",
       "spotCount" : 12970
+    },
+    {
+      "displayName" : "Finland — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-fi-v1\/fi_pack_v1.enc",
+      "fileHash" : "d44ee7dc22d73039ebee3d1282c59bebc921987f6f1495947e9d3ac9b20b5112",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.fi",
+      "signature" : "6Y9R5ZylPrXr\/AXQLBSnG3DAo7Pfy8JJtKLYCwu\/xnVOrUjVbE3\/1KhrG1g8PwNZn4Ur0uPyQbCXh2hvJrvHCA==",
+      "spotCount" : 4643
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
