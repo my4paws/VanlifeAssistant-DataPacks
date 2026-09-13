@@ -200,6 +200,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.ee",
       "signature" : "tU0swTZhtK+JaMPL8PS7pJxlGCfJkjof1xMeirwXp\/h48PX35IIO02cP9QggeS8Lzr5zVbdDaaZ65sNkbNyRDQ==",
       "spotCount" : 1252
+    },
+    {
+      "displayName" : "Lithuania — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-lt-v1\/lt_pack_v1.enc",
+      "fileHash" : "84524e68d700c6637843fdc6e16549af6db2f64e89d7884f716ececac19ab845",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.lt",
+      "signature" : "8X4DhMG8Uko8FX3vj99ICQ9L+hizuby\/BsoDC\/3oO9aY165yp\/HmuosE0HCBFJXwD4iHjEaA5X+cVX04G5TtCg==",
+      "spotCount" : 1101
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
