@@ -210,6 +210,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.lt",
       "signature" : "8X4DhMG8Uko8FX3vj99ICQ9L+hizuby\/BsoDC\/3oO9aY165yp\/HmuosE0HCBFJXwD4iHjEaA5X+cVX04G5TtCg==",
       "spotCount" : 1101
+    },
+    {
+      "displayName" : "Latvia — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-lv-v1\/lv_pack_v1.enc",
+      "fileHash" : "4dba9b18cf7cc6e6facc273adcc483bfdabe6c16add3e4e1846fbb5a250080ec",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.lv",
+      "signature" : "tmRwpMyl\/0LYaUiEqJDd2HoMXy97hMPmajTufN12P6LuHMOydpqXzLK314fxf0Bd9v0afbYHVNPH6KclFoghBw==",
+      "spotCount" : 1292
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
