@@ -190,6 +190,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.fi",
       "signature" : "6Y9R5ZylPrXr\/AXQLBSnG3DAo7Pfy8JJtKLYCwu\/xnVOrUjVbE3\/1KhrG1g8PwNZn4Ur0uPyQbCXh2hvJrvHCA==",
       "spotCount" : 4643
+    },
+    {
+      "displayName" : "Estonia — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-ee-v1\/ee_pack_v1.enc",
+      "fileHash" : "e55755ec5a038d428787aacb29219549c649a6df7f78e00dc1c144e158bb4d64",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.ee",
+      "signature" : "tU0swTZhtK+JaMPL8PS7pJxlGCfJkjof1xMeirwXp\/h48PX35IIO02cP9QggeS8Lzr5zVbdDaaZ65sNkbNyRDQ==",
+      "spotCount" : 1252
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
