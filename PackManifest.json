@@ -230,6 +230,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.pl",
       "signature" : "ErWnsMxqzUni2e8gbjCsQ8TO1v+hZ\/EIRfB4Gb3JBGXMlWbFU8WJKIi7jtEzZ\/eYYpkdYZ7J1PYSg3oOUKeVDw==",
       "spotCount" : 8331
+    },
+    {
+      "displayName" : "Czech Republic — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-cz-v1\/cz_pack_v1.enc",
+      "fileHash" : "c0f5eff84febe9654f87f189d3254dff8f9c5b4cf07fa2bb2c18e64ddbf10830",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.cz",
+      "signature" : "15HekFF4mwHIgu9Yj0TRWN8i1p++H5vPkdWlJ6iggt25wVkR4FgWPKqrgJ3cKvggLh+WkIPY\/z40rhwwbwGkCA==",
+      "spotCount" : 4229
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
