@@ -250,6 +250,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.si",
       "signature" : "qFG2WDVL87XVlEuPXW4355wHOYzEuBDh+vRRl0ZukOZxfFO4ZGldnaIa3U8huphSt2zm+1iQhiVVQ\/w828\/lAw==",
       "spotCount" : 2162
+    },
+    {
+      "displayName" : "Slovakia — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-sk-v1\/sk_pack_v1.enc",
+      "fileHash" : "68a4e960e82ed933cc195af018e1bd66394112b71eb3a7b4277ae4ac183e56b4",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.sk",
+      "signature" : "e2SvdvSFXq4yeIsUOKPoqymBuE9wnCEV6UugZESKdllyRoTkwDEq2RYPdt9934b68meBHJBjVpK3uPnh5oJDBQ==",
+      "spotCount" : 521
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
