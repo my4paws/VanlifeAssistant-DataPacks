@@ -280,6 +280,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.hu",
       "signature" : "rPYcJNuo9Ihk49zzGBKvpeFLUZaLN\/J+1eu22EX\/2ZMNeaWBTyUpgfDarJcoFk8rZlKaAfvtSj047yr3qZGAAw==",
       "spotCount" : 1364
+    },
+    {
+      "displayName" : "Bosnia — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-ba-v1\/ba_pack_v1.enc",
+      "fileHash" : "0abaedbea53d79f9fd5d5569967bdfb09177f8b27a8811c08e40feedf13128e0",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.ba",
+      "signature" : "pqAy54AFC0pHxK6DIIQwtIdI0h\/iAfe+VYHBhnJjpZP\/vI2BMvBmqJsknblRrKQ5AAEfggrOJH\/ngizfMdklCg==",
+      "spotCount" : 1315
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
