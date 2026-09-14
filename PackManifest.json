@@ -290,6 +290,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.ba",
       "signature" : "pqAy54AFC0pHxK6DIIQwtIdI0h\/iAfe+VYHBhnJjpZP\/vI2BMvBmqJsknblRrKQ5AAEfggrOJH\/ngizfMdklCg==",
       "spotCount" : 1315
+    },
+    {
+      "displayName" : "Serbia — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-rs-v1\/rs_pack_v1.enc",
+      "fileHash" : "44a24d9a91c1717a27ecde8eeeb9c4c1419fad5e97af63189051514e1445b53e",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.rs",
+      "signature" : "omBW62yMKEZ9Vf2roVc3916XmthCnEAC3Yz0S5sho2bsNSZ3z\/+rjb9Jp7Ytaxv6KrxHJbJ9HokWMRLJK9EZCw==",
+      "spotCount" : 919
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
