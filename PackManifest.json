@@ -260,6 +260,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.sk",
       "signature" : "e2SvdvSFXq4yeIsUOKPoqymBuE9wnCEV6UugZESKdllyRoTkwDEq2RYPdt9934b68meBHJBjVpK3uPnh5oJDBQ==",
       "spotCount" : 521
+    },
+    {
+      "displayName" : "Croatia — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-hr-v1\/hr_pack_v1.enc",
+      "fileHash" : "56a5a7042068ed0dadcc2a5fe11a9b2f9208a518d1b86ed596f6ce2e05cd6464",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.hr",
+      "signature" : "2Tri48KaynggOtRagykWRWJeoh2gTNAVbVcIf22kFBfco9MMsWYOQD0G7XGl1qO5tq9RrGiQCXirOfCXYNHUAQ==",
+      "spotCount" : 4368
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
