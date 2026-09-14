@@ -220,6 +220,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.lv",
       "signature" : "tmRwpMyl\/0LYaUiEqJDd2HoMXy97hMPmajTufN12P6LuHMOydpqXzLK314fxf0Bd9v0afbYHVNPH6KclFoghBw==",
       "spotCount" : 1292
+    },
+    {
+      "displayName" : "Poland — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-pl-v1\/pl_pack_v1.enc",
+      "fileHash" : "335ada0f0652cc0a725d623f61f54fbe5692dec8e82b988b77e877de5d03f55b",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.pl",
+      "signature" : "ErWnsMxqzUni2e8gbjCsQ8TO1v+hZ\/EIRfB4Gb3JBGXMlWbFU8WJKIi7jtEzZ\/eYYpkdYZ7J1PYSg3oOUKeVDw==",
+      "spotCount" : 8331
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
