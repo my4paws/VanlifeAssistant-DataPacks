@@ -270,6 +270,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.hr",
       "signature" : "2Tri48KaynggOtRagykWRWJeoh2gTNAVbVcIf22kFBfco9MMsWYOQD0G7XGl1qO5tq9RrGiQCXirOfCXYNHUAQ==",
       "spotCount" : 4368
+    },
+    {
+      "displayName" : "Hungary — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-hu-v1\/hu_pack_v1.enc",
+      "fileHash" : "da3026eaadcde778ea50aa17ebb3f6f4e7eb6ad0e10e856f5f5a762ab97703ff",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.hu",
+      "signature" : "rPYcJNuo9Ihk49zzGBKvpeFLUZaLN\/J+1eu22EX\/2ZMNeaWBTyUpgfDarJcoFk8rZlKaAfvtSj047yr3qZGAAw==",
+      "spotCount" : 1364
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
