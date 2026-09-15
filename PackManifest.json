@@ -300,6 +300,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.rs",
       "signature" : "omBW62yMKEZ9Vf2roVc3916XmthCnEAC3Yz0S5sho2bsNSZ3z\/+rjb9Jp7Ytaxv6KrxHJbJ9HokWMRLJK9EZCw==",
       "spotCount" : 919
+    },
+    {
+      "displayName" : "Montenegro — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-me-v1\/me_pack_v1.enc",
+      "fileHash" : "49084c0c4b209923c1ad9de7163e1bbd03b3312e9a5a756b1ed70dc961eb00dc",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.me",
+      "signature" : "MqE3cHmY4eK6iN6MKufhpHupcm9QbmEcv7GakaZWQDi9De67AqEyzE9\/bohoPR8RSCkA42PGxptkVVgPv38nBg==",
+      "spotCount" : 534
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
