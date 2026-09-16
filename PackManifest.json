@@ -320,6 +320,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.ro",
       "signature" : "grP0dobfRgguwtQHu3kUM\/33l1YcaCE1mz7Sv0OlCBhsNgIN5d6o4jbhvBc651N+iBrB9PQcPO408R4yLfcsBw==",
       "spotCount" : 4186
+    },
+    {
+      "displayName" : "Albania — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-al-v1\/al_pack_v1.enc",
+      "fileHash" : "2e4de9a461a5f82662c58e2c420d4a52ebd1694e35359f3610a726bab883a106",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.al",
+      "signature" : "pyseE76TuzGt\/\/uWnozNHTeWMObD3qXPgsQSnjfzQ5MFbb4ctKegx2Vf+6wY5XoDKc3IPDc7bqgL0PwASBZfBA==",
+      "spotCount" : 1982
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
