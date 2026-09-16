@@ -310,6 +310,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.me",
       "signature" : "MqE3cHmY4eK6iN6MKufhpHupcm9QbmEcv7GakaZWQDi9De67AqEyzE9\/bohoPR8RSCkA42PGxptkVVgPv38nBg==",
       "spotCount" : 534
+    },
+    {
+      "displayName" : "Romania — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-ro-v1\/ro_pack_v1.enc",
+      "fileHash" : "6dc8e90f4efd734185ec4a8e1c4becaa7769e4f26595cac2f454882fd968f060",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.ro",
+      "signature" : "grP0dobfRgguwtQHu3kUM\/33l1YcaCE1mz7Sv0OlCBhsNgIN5d6o4jbhvBc651N+iBrB9PQcPO408R4yLfcsBw==",
+      "spotCount" : 4186
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
