@@ -126,6 +126,15 @@
       "packVersion" : 1,
       "region" : "se",
       "towerCount" : 29217
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-al-v1\/OpenCelliD_AL.sqlite.gz",
+      "fileHash" : "33b20608367f237244db57d6edc56923ce00244f5514b8f2e807cf7cbb0cda71",
+      "fileSizeBytes" : 122880,
+      "name" : "Albania",
+      "packVersion" : 1,
+      "region" : "al",
+      "towerCount" : 1029
     }
   ]
 }
