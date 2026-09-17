@@ -330,6 +330,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.al",
       "signature" : "pyseE76TuzGt\/\/uWnozNHTeWMObD3qXPgsQSnjfzQ5MFbb4ctKegx2Vf+6wY5XoDKc3IPDc7bqgL0PwASBZfBA==",
       "spotCount" : 1982
+    },
+    {
+      "displayName" : "Bulgaria — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-bg-v1\/bg_pack_v1.enc",
+      "fileHash" : "acc91ea201c241cf622c06f29c3f8efc2c40a0991f5d04050cfb091ad48633eb",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.bg",
+      "signature" : "RHifB2chqjqfZFLCLcLnqikcwLAExFxVyMS3FszpF48aBgf8hDBQ\/CONY2H8mT1Grl4YE29seZtOs\/snO1RHAA==",
+      "spotCount" : 2516
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
