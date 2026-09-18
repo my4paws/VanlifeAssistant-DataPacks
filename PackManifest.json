@@ -350,6 +350,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.gr",
       "signature" : "Xdlf2n8Ug0zqnLHZzmQFP6svx6CRGGnswuEPt1yl2P4O2Ld339eBdQ2uOfFlg+CpqcexoMibJtPNCYwKv\/kmAA==",
       "spotCount" : 9839
+    },
+    {
+      "displayName" : "North Macedonia — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-mk-v1\/mk_pack_v1.enc",
+      "fileHash" : "ade7025759f2a09635d02c9ea3e2acb7c9b8da9ae5c72865fd4a448a894629e7",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.mk",
+      "signature" : "y8yymQkG3\/flAskjhfhuPYlvkmEoMmvLFe0eYETxy6fS2YKp+5e0Fmo6nmd\/u9VqVtysDpKWBou1xGfDI9G\/Dg==",
+      "spotCount" : 619
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
