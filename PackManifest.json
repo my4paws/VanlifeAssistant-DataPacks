@@ -340,6 +340,16 @@
       "productID" : "Vincent.VanlifeAssistant.pack.bg",
       "signature" : "RHifB2chqjqfZFLCLcLnqikcwLAExFxVyMS3FszpF48aBgf8hDBQ\/CONY2H8mT1Grl4YE29seZtOs\/snO1RHAA==",
       "spotCount" : 2516
+    },
+    {
+      "displayName" : "Greece — Premium Spot Pack",
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/spot-gr-v1\/gr_pack_v1.enc",
+      "fileHash" : "b3562c88cafd8579ab28519471786d1b0143231d371eadbf4c090601990119db",
+      "keyVersion" : 1,
+      "packVersion" : 1,
+      "productID" : "Vincent.VanlifeAssistant.pack.gr",
+      "signature" : "Xdlf2n8Ug0zqnLHZzmQFP6svx6CRGGnswuEPt1yl2P4O2Ld339eBdQ2uOfFlg+CpqcexoMibJtPNCYwKv\/kmAA==",
+      "spotCount" : 9839
     }
   ],
   "remoteManifestURL" : "https:\/\/raw.githubusercontent.com\/my4paws\/VanlifeAssistant-DataPacks\/main\/PackManifest.json"
