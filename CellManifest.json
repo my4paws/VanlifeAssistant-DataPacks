@@ -171,6 +171,15 @@
       "packVersion" : 1,
       "region" : "cz",
       "towerCount" : 35733
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-ee-v1\/OpenCelliD_EE.sqlite.gz",
+      "fileHash" : "864528cf2f53b8d01bd8261a3239d449ba3a3802e6d7a7b8c6122551a25c8957",
+      "fileSizeBytes" : 610304,
+      "name" : "Estonia",
+      "packVersion" : 1,
+      "region" : "ee",
+      "towerCount" : 6657
     }
   ]
 }
