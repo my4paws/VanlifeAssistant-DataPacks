@@ -207,6 +207,15 @@
       "packVersion" : 1,
       "region" : "hu",
       "towerCount" : 27683
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-it-v1\/OpenCelliD_IT.sqlite.gz",
+      "fileHash" : "fe34a7d1ca1547c667e4fecc4e3ada4b5233ad8a64d3ccb1d9968d5f4a970e00",
+      "fileSizeBytes" : 8171520,
+      "name" : "Italy",
+      "packVersion" : 1,
+      "region" : "it",
+      "towerCount" : 88047
     }
   ]
 }
