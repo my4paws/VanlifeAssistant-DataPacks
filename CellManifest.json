@@ -180,6 +180,15 @@
       "packVersion" : 1,
       "region" : "ee",
       "towerCount" : 6657
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-fi-v1\/OpenCelliD_FI.sqlite.gz",
+      "fileHash" : "15605b12e7d236a8ed83f59728663fe172ced6f14fad153ae9b0a9a564f8087a",
+      "fileSizeBytes" : 3309568,
+      "name" : "Finland",
+      "packVersion" : 1,
+      "region" : "fi",
+      "towerCount" : 35895
     }
   ]
 }
