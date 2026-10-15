@@ -270,6 +270,42 @@
       "packVersion" : 1,
       "region" : "mk",
       "towerCount" : 2834
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-sk-v1\/OpenCelliD_SK.sqlite.gz",
+      "fileHash" : "47097a0bb682fa38f32c88818eea4be7d3be36c02d59ff9114cafd65c2aeed00",
+      "fileSizeBytes" : 897024,
+      "name" : "Slovakia",
+      "packVersion" : 1,
+      "region" : "sk",
+      "towerCount" : 9760
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-ro-v1\/OpenCelliD_RO.sqlite.gz",
+      "fileHash" : "7f5b9ea119d3929b1c294557945fc8f636885631253a8db50f5e3b4283f690aa",
+      "fileSizeBytes" : 1802240,
+      "name" : "Romania",
+      "packVersion" : 1,
+      "region" : "ro",
+      "towerCount" : 19666
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-si-v1\/OpenCelliD_SI.sqlite.gz",
+      "fileHash" : "d3cc7e052623447ebfd99942792fb8d914b527969326734765db2b98c6d199d1",
+      "fileSizeBytes" : 1171456,
+      "name" : "Slovenia",
+      "packVersion" : 1,
+      "region" : "si",
+      "towerCount" : 12783
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-rs-v1\/OpenCelliD_RS.sqlite.gz",
+      "fileHash" : "b143de67a94e2a2e9bb47e1a173d95191c76c7e78cec99db387767b2311fe9f8",
+      "fileSizeBytes" : 794624,
+      "name" : "Serbia",
+      "packVersion" : 1,
+      "region" : "rs",
+      "towerCount" : 8525
     }
   ]
 }
