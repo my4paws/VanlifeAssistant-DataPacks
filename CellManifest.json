@@ -189,6 +189,15 @@
       "packVersion" : 1,
       "region" : "fi",
       "towerCount" : 35895
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-gr-v1\/OpenCelliD_GR.sqlite.gz",
+      "fileHash" : "1b1d5621517e2cda1aaea29e43aecd2a4be5cd3874785b2dc64fb3147e24957e",
+      "fileSizeBytes" : 2658304,
+      "name" : "Greece",
+      "packVersion" : 1,
+      "region" : "gr",
+      "towerCount" : 29099
     }
   ]
 }
