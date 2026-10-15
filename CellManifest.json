@@ -135,6 +135,15 @@
       "packVersion" : 1,
       "region" : "al",
       "towerCount" : 1029
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-ba-v1\/OpenCelliD_BA.sqlite.gz",
+      "fileHash" : "7aef5a3be06e812a8f6cce4d76c5d05cac0214db259f7ca6eeae67e6d54f27fd",
+      "fileSizeBytes" : 98304,
+      "name" : "Bosnia",
+      "packVersion" : 1,
+      "region" : "ba",
+      "towerCount" : 872
     }
   ]
 }
