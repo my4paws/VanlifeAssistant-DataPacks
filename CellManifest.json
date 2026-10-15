@@ -225,6 +225,24 @@
       "packVersion" : 1,
       "region" : "lv",
       "towerCount" : 3208
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-lt-v1\/OpenCelliD_LT.sqlite.gz",
+      "fileHash" : "42d7616ac51d084f904c533fc06439e325dac1bb47a97c61fc279f28b102adae",
+      "fileSizeBytes" : 761856,
+      "name" : "Lithuania",
+      "packVersion" : 1,
+      "region" : "lt",
+      "towerCount" : 8190
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-me-v1\/OpenCelliD_ME.sqlite.gz",
+      "fileHash" : "c287eef7cad27c053b38f80c7c5681d72823ecf9f894abc99d852e24922b0877",
+      "fileSizeBytes" : 204800,
+      "name" : "Montenegro",
+      "packVersion" : 1,
+      "region" : "me",
+      "towerCount" : 2086
     }
   ]
 }
