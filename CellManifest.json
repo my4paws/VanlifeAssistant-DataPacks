@@ -153,6 +153,15 @@
       "packVersion" : 1,
       "region" : "bg",
       "towerCount" : 8652
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-hr-v1\/OpenCelliD_HR.sqlite.gz",
+      "fileHash" : "df237ecbd3f74dff17529d4e867e0208ae4e5612824a8f2a1d2eff594e9b29db",
+      "fileSizeBytes" : 2969600,
+      "name" : "Croatia",
+      "packVersion" : 1,
+      "region" : "hr",
+      "towerCount" : 32371
     }
   ]
 }
