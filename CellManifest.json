@@ -216,6 +216,15 @@
       "packVersion" : 1,
       "region" : "it",
       "towerCount" : 88047
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-lv-v1\/OpenCelliD_LV.sqlite.gz",
+      "fileHash" : "28f1f8ea12afced823d05d61b9d6246eb6f075a952b393f692dd0f05fdec23ee",
+      "fileSizeBytes" : 307200,
+      "name" : "Latvia",
+      "packVersion" : 1,
+      "region" : "lv",
+      "towerCount" : 3208
     }
   ]
 }
