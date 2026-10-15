@@ -243,6 +243,33 @@
       "packVersion" : 1,
       "region" : "me",
       "towerCount" : 2086
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-no-v1\/OpenCelliD_NO.sqlite.gz",
+      "fileHash" : "fc552663111e979f48206e4d9dee080e2b2f336132dbf95c57661eed6816a9b5",
+      "fileSizeBytes" : 1617920,
+      "name" : "Norway",
+      "packVersion" : 1,
+      "region" : "no",
+      "towerCount" : 17611
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-pl-v1\/OpenCelliD_PL.sqlite.gz",
+      "fileHash" : "2807eee8054041de9cd100845f6ac0ac059a89ebcddd909640467ed2be9fc1d8",
+      "fileSizeBytes" : 8110080,
+      "name" : "Poland",
+      "packVersion" : 1,
+      "region" : "pl",
+      "towerCount" : 87656
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-mk-v1\/OpenCelliD_MK.sqlite.gz",
+      "fileHash" : "ff57c47869cd45f85fe91f0ed0e6c24f1dc94d5c9a0bf4e774fae9c89c95bf15",
+      "fileSizeBytes" : 274432,
+      "name" : "North Macedonia",
+      "packVersion" : 1,
+      "region" : "mk",
+      "towerCount" : 2834
     }
   ]
 }
