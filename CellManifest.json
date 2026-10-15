@@ -144,6 +144,15 @@
       "packVersion" : 1,
       "region" : "ba",
       "towerCount" : 872
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-bg-v1\/OpenCelliD_BG.sqlite.gz",
+      "fileHash" : "1fe772178b4d9a2eceee2148221ac13a2a2dbba3acb9e0e55f726f2933627a9e",
+      "fileSizeBytes" : 790528,
+      "name" : "Bulgaria",
+      "packVersion" : 1,
+      "region" : "bg",
+      "towerCount" : 8652
     }
   ]
 }
