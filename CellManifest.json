@@ -306,6 +306,15 @@
       "packVersion" : 1,
       "region" : "rs",
       "towerCount" : 8525
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-tr-v1\/OpenCelliD_TR.sqlite.gz",
+      "fileHash" : "591699879392daf5cd864b201023d190baf6b82b8728c3865f7513b8d0f76919",
+      "fileSizeBytes" : 1470464,
+      "name" : "Turkey",
+      "packVersion" : 1,
+      "region" : "tr",
+      "towerCount" : 15911
     }
   ]
 }
