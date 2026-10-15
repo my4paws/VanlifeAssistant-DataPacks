@@ -162,6 +162,15 @@
       "packVersion" : 1,
       "region" : "hr",
       "towerCount" : 32371
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-cz-v1\/OpenCelliD_CZ.sqlite.gz",
+      "fileHash" : "61bef75dc3d032fd7fca52a6789998497b096181a802f7d42167d608279c3e1b",
+      "fileSizeBytes" : 3280896,
+      "name" : "Czech Republic",
+      "packVersion" : 1,
+      "region" : "cz",
+      "towerCount" : 35733
     }
   ]
 }
