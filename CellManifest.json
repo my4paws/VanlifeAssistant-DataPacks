@@ -198,6 +198,15 @@
       "packVersion" : 1,
       "region" : "gr",
       "towerCount" : 29099
+    },
+    {
+      "downloadURL" : "https:\/\/github.com\/my4paws\/VanlifeAssistant-DataPacks\/releases\/download\/cell-hu-v1\/OpenCelliD_HU.sqlite.gz",
+      "fileHash" : "e399ea1dabe1ceea45ba69ce4ad1cf0e8f201c00c78f0ac55e1d3f9af8ac1357",
+      "fileSizeBytes" : 2547712,
+      "name" : "Hungary",
+      "packVersion" : 1,
+      "region" : "hu",
+      "towerCount" : 27683
     }
   ]
 }
